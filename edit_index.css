@@ -1,7 +1,21 @@
+/*Entire page edit*/
 body {
     background-color: black;
     color: white;
 }
-a {
+
+
+
+/* Link edits*/
+a:link {
     color: yellow;
+}
+a:hover {
+    background-color: purple;
+}
+a:active {
+    color:whitesmoke
+}
+a:visited {
+    color: palegreen;
 }
